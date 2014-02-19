@@ -4,11 +4,6 @@ PHP MySQL Class
 This is a simple to use MySQL class that easily bolts on to any existing PHP application, streamlining your MySQL interactions.
 
 
-Latest Changes
---------------
-
-I have refactored the entire class, and improved the code somewhat. This means that some things now work differently to the original version.
-
 
 Setup
 -----
@@ -66,7 +61,7 @@ $newUser = array('username' => 'Thrackhamator');
 $oMySQL->Insert($newUser, 'admin');
 ```
 
-And voila:
+And here:
 
 ```
 +----+---------------+
