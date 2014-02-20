@@ -1,7 +1,7 @@
 <?php
 
 
-// MySQL Class v0.8.1
+// MySQL Class 
 class MySQL {
 	
 	// Base variables
